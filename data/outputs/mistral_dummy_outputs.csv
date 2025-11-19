@@ -1,0 +1,9 @@
+task_id,model_name,response
+r1,mistral_dummy,8
+r2,mistral_dummy,3.5
+r3,mistral_dummy,5
+s1,mistral_dummy,"Company revenue increased by 20% due to cloud demand, but higher costs reduced profit margins."
+s2,mistral_dummy,"A new bike-sharing program gained 10,000 users in a month and aims to cut traffic and support sustainability."
+c1,mistral_dummy,neutral
+c2,mistral_dummy,negative
+c3,mistral_dummy,neutral

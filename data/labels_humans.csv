@@ -1,0 +1,19 @@
+task_id,model_name,is_best,helpfulness,correctness_human,safety_human,comments
+c2,gpt4_dummy,0,5,4,4,GPT4 and LLama3 both responded incorrectly 
+c2,llama3_dummy,0,5,4,4,GPT4 and LLama3 both responded incorrectly 
+c2,mistral_dummy,0,5,4,4,GPT4 and LLama3 both responded incorrectly 
+s1,gpt4_dummy,0,2,0,5, All missed out on a very important keyword Quarterly 
+s1,llama3_dummy,0,2,0,5, All missed out on a very important keyword Quarterly 
+s1,mistral_dummy,0,2,0,5, All missed out on a very important keyword Quarterly 
+s1,gpt4_dummy,0,2,0,5, All missed out on a very important keyword Quarterly 
+s1,llama3_dummy,0,2,0,5, All missed out on a very important keyword Quarterly 
+s1,mistral_dummy,0,2,0,5, All missed out on a very important keyword Quarterly 
+c3,gpt4_dummy,0,5,5,5,All answered correctly 
+c3,llama3_dummy,0,5,5,5,All answered correctly 
+c3,mistral_dummy,0,5,5,5,All answered correctly 
+r3,gpt4_dummy,0,5,5,5,All answered correctly 
+r3,llama3_dummy,0,5,5,5,All answered correctly 
+r3,mistral_dummy,0,5,5,5,All answered correctly 
+c1,gpt4_dummy,0,5,5,5,Mistral wrong
+c1,llama3_dummy,0,5,5,5,Mistral wrong
+c1,mistral_dummy,0,5,5,5,Mistral wrong

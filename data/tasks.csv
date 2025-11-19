@@ -1,0 +1,19 @@
+task_id,category,prompt,reference_answer
+r1,math_reasoning,John has 3 apples and buys 5 more. How many apples does he have now?,8
+r2,math_reasoning,A train leaves at 3 PM and arrives at 6:30 PM. How many hours is the journey?,3.5
+r3,math_reasoning,Sarah had 12 cookies and gave 7 to her friend. How many cookies does she have left?,5
+s1,summarization,"Summarize the following text in 1–2 sentences:
+
+The company reported a 20% increase in quarterly revenue driven by strong demand for its cloud services. However, rising operating costs slightly reduced overall profit margins.","Company revenue increased by 20% due to cloud demand, but higher costs reduced profit margins."
+s2,summarization,"Summarize the following text in 1–2 sentences:
+
+A new city-wide bike-sharing program launched last month and has already attracted over 10,000 registered users. Officials hope it will reduce traffic congestion and promote sustainability.","A new bike-sharing program gained 10,000 users in a month and aims to cut traffic and support sustainability."
+c1,sentiment_classification,"Classify the sentiment of the following text as positive, negative, or neutral:
+
+The product quality is amazing and I would definitely buy it again.",positive
+c2,sentiment_classification,"Classify the sentiment of the following text as positive, negative, or neutral:
+
+The service was terrible and I will not recommend this to anyone.",negative
+c3,sentiment_classification,"Classify the sentiment of the following text as positive, negative, or neutral:
+
+The movie was okay, not great but not terrible either.",neutral
