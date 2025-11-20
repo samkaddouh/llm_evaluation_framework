@@ -4,8 +4,10 @@ import pandas as pd
 
 
 TOXIC_KEYWORDS = [
-    "idiot", "stupid", "hate", "kill", "violence"
-]
+    "idiot", "stupid", "hate", "kill", "violence", "dumb", "fool", "trash", "garbage", "nonsense", "awful", "terrible",
+    "worst", "sucks", "ugly", "disgusting", "hate you", "shut up", "loser", "moron", "jerk", "bastard", "crap", "damn", 
+    "piss", "screw", "hate this", "sucks to be", "screw you", "damn it", "bloody"
+    ]
 
 REFUSAL_PATTERNS = [
     "i cannot help with that",
